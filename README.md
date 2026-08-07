@@ -54,7 +54,11 @@ to build scalable, industry-ready solutions.
 
 ## 🧩 LeetCode Stats (Live)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Unnati704?theme=dark&font=Fira%20Code&ext=contest&border=0" />
+  <img
+    src="https://leetcard.jacoblin.cool/Unnati704?theme=dark&font=Fira%20Code&ext=contest&border=0"
+    alt="LeetCode Stats"
+    width="500"
+  />
 </p>
 
 ---
