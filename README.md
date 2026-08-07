@@ -73,7 +73,7 @@ to build scalable, industry-ready solutions.
 
 ## 🔗 Coding Profiles
 <p align="center">
-  <a href="https://leetcode.com/u/aman_1711/">
+  <a href="https://leetcode.com/u/Unnati_gupta123/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
