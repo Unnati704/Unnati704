@@ -4,11 +4,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman0117-crypto
-&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=760&lines=Java+Developer;DSA+Problem+Solver;Full+Stack+Learner;LeetCode+Daily+Practitioner;Tech+Driven+Mindset" />
 </p>
 
@@ -67,7 +62,7 @@ to build scalable, industry-ready solutions.
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/aman0117-crypto/aman0117-crypto/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/Unnati704/Unnati704/output/github-contribution-grid-snake.svg" 
     alt="GitHub contribution snake"
   />
 </p>
